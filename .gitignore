@@ -1,0 +1,22 @@
+# Fichiers générés automatiquement
+*.pyc
+*.sqlite3
+*.log
+media/cache/
+static/cache/
+
+# Dossiers de développement
+venv/
+.idea/
+.vscode/
+
+# Fichiers de configuration spécifiques à l'utilisateur
+local_settings.py
+requirements.txt
+
+# Dossiers de tests
+tests/
+
+# Fichiers temporaires
+db.sqlite3
+*.tmp
