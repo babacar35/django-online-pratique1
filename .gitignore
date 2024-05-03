@@ -6,7 +6,8 @@ media/cache/
 static/cache/
 
 # Dossiers de développement
- env/
+.venv/
+env/
 .idea/
 .vscode/
 
