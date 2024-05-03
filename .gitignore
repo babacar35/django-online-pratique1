@@ -12,7 +12,7 @@ env/
 
 # Fichiers de configuration spécifiques à l'utilisateur
 local_settings.py
-requirements.txt
+#requirements.txt
 
 # Dossiers de tests
 tests/
