@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-or&of_0af81x-%&h-_sd9(a=oa@dx7^=f8&-p!tpdug3060i0d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-babacar35-django-online-tb7ka5aubh.us1.codeanyapp.com']
+ALLOWED_HOSTS = ['localhost','8000-babacar35-django-online-tb7ka5aubh.us1.codeanyapp.com']
 
 
 # Application definition
