@@ -1,6 +1,6 @@
 # Fichiers générés automatiquement
 *.pyc
-*.sqlite3
+#*.sqlite3
 *.log
 media/cache/
 static/cache/
@@ -19,5 +19,5 @@ local_settings.py
 tests/
 
 # Fichiers temporaires
-db.sqlite3
+#db.sqlite3
 *.tmp
